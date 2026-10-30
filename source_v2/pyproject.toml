@@ -1,0 +1,17 @@
+[project]
+name = "smart-launcher-comfyui"
+version = "2.0.0"
+description = "Smart Launcher for ComfyUI"
+requires-python = ">=3.12,<3.15"
+dependencies = [
+    "customtkinter>=5.2,<6",
+    "packaging>=24,<27",
+    "pillow>=10,<13",
+    "websockets>=14,<17",
+]
+
+[project.optional-dependencies]
+build = ["pyinstaller>=6,<7"]
+
+[tool.ruff]
+line-length = 100

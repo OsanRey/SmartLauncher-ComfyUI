@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.coverage
+.pytest_cache/
+.ruff_cache/
+.venv/
+/.build_v2/
+/dist/
+build/
+*.spec
+/.ui-qa/
+/.exe-smoke/
+*.egg-info/
+ui-smoke*.png
+build/
+dist/
+*.spec
