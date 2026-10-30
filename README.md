@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="Smart Launcher — ComfyUI, models and custom nodes in one place" width="800"></p>
+
 # Smart Launcher for ComfyUI
 
 <p>
